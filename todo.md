@@ -9,3 +9,8 @@ I have lots of things I need to do today
   2. Watch football 
   3. Something else
 - stop
+
+## Tomorrow
+- Learn the second lesson for git etc.
+- Eat probs
+- Meeting on BMI
